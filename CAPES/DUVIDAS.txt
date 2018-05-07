@@ -6,3 +6,6 @@ Questao 4)
 
 Questão 6) 
 -Nomes das areas duvidosas... CIÊNCIA DA COMPUTAÇÃO vs CIÊNCIAS DE COMPUTAÇÃO E MATEMÁTICA COMPUTACIONAL	
+
+Questão 14,15)
+-Dividir por total absoluto de docentes? Ou de docentes por categoria? Se sim, como?
