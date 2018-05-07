@@ -1,0 +1,8 @@
+Geral:
+-como Tratar duplicados?
+
+Questao 4)
+-Como visualizar os dados?
+
+Questão 6) 
+-Nomes das areas duvidosas... CIÊNCIA DA COMPUTAÇÃO vs CIÊNCIAS DE COMPUTAÇÃO E MATEMÁTICA COMPUTACIONAL	
